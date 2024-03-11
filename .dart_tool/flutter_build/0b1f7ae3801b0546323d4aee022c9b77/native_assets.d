@@ -1,0 +1,1 @@
+ C:\\Users\\said\\flutterProject\\Batiment\\.dart_tool\\flutter_build\\0b1f7ae3801b0546323d4aee022c9b77\\native_assets.yaml: 

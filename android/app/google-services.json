@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838515811229",
+    "project_id": "batiment-62eb9",
+    "storage_bucket": "batiment-62eb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838515811229:android:62f5cfd2005040bc57c574",
+        "android_client_info": {
+          "package_name": "com.example.batimente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwUy4RfZttPDTRCjuORK4DsGUltZYuOfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

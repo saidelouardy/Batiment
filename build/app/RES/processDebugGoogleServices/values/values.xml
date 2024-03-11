@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">838515811229</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwUy4RfZttPDTRCjuORK4DsGUltZYuOfY</string>
+    <string name="google_app_id" translatable="false">1:838515811229:android:62f5cfd2005040bc57c574</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwUy4RfZttPDTRCjuORK4DsGUltZYuOfY</string>
+    <string name="google_storage_bucket" translatable="false">batiment-62eb9.appspot.com</string>
+    <string name="project_id" translatable="false">batiment-62eb9</string>
+</resources>
